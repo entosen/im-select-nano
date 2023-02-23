@@ -4,8 +4,9 @@ im-select-nano
 
 Macの入力ソースの現在値の取得、および、セットができるプログラム。
 
-https://github.com/daipeihust/im-select をもとに、
-ビルド済みのバイナリファイルを削除し、Mac用のソースコードだけを含む形にしたもの。
+`im-select <https://github.com/daipeihust/im-select>`_ の代替として使用できる。
+
+ビルド済みのバイナリファイルを含まず、Mac用のソースコードのみで構成される。
 
 USAGE
 ===============
